@@ -99,3 +99,7 @@ module.exports = {
 														    ```
 
 ##### Important: run `npm install` from the terminal of your project folder to install all necessary project dependencies.
+
+#### Testing
+the *-main.js files are tests. To execute, run:example
+```npm run dev 11-main.js ``` 
